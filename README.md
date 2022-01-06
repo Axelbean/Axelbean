@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Axelbean
-- 👀 I’m interested in Coding and Project Management
-- 🌱 I’m currently learning LUA and sometimes C and JS and Python.
-- 💞️ I’m looking to collaborate on no one
+- 👀 I’m interested in Programming and Project Management
+- 🌱 I’m currently learning JavaScript and i plan to learn node.js after that.
+- 💞️ I’m looking to collaborate with no one
 - 📫 How to reach me Beany#7000
 
 <!---
