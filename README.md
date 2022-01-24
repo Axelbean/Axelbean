@@ -2,7 +2,7 @@
 - 👀 [I’m interested] in Front-End and Backend developement, Project Management and UI Designing.
 - 🌱 [I’m currently learning] JavaScript and i plan to learn node.js after that.
 - 💞️ [I’m looking to collaborate with] no one
-- 📫 [How to reach me Beany#7000]
+- 📫 [How to reach me] Beany#7000
 
 Hi I'm Axel and I'm 15 years old and I'm from Iceland 👋. I wish to learn JavaScript for the awesome possibilities you can use with the language I wish to use it for it's bot development purposes and many other purposes in the future I'm also intrested in game development and I'm going to learn Lua for that part I'm going to start small and I'm mean im going to learn Lua for Roblox and C#/C/C++ when I have learned enough from Lua and the Roblox Game Development side.
 
