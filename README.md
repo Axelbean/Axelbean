@@ -1,6 +1,6 @@
 - 👋 [Hi,] I’m @Axelbean
 - 👀 [I’m interested] in Front-End and Backend developement, Project Management and UI Designing.
-- 🌱 [I’m currently learning] JavaScript and i plan to learn node.js after that.
+- 🌱 [I’m currently learning] JavaScript, Lua(u) and C#
 - 💞️ [I’m looking to collaborate with] no one
 - 📫 [How to reach me] Beany#7000
 
