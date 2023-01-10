@@ -1,10 +1,10 @@
 - 👋 [Hi,] I’m @Axelbean
-- 👀 [I’m interested] in Front-End and Backend developement, Project Management and UI Designing.
-- 🌱 [I’m currently learning] JavaScript, Lua(u) and C#
+- 👀 [I’m interested] in Front-End and Backend developement, General game development
+- 🌱 [I’m currently learning] Lua(u)
 - 💞️ [I’m looking to collaborate with] no one
-- 📫 [How to reach me] Beany#7000
+- 📫 [How to reach me] Beany#7000, @BeanyRBLX
 
-Hi I'm Axel and I'm 15 years old and I'm from Iceland 👋. I wish to learn JavaScript for the awesome possibilities you can use with the language I wish to use it for it's bot development purposes and many other purposes in the future I'm also intrested in game development and I'm going to learn Lua for that part I'm going to start small and I'm mean im going to learn Lua for Roblox and C#/C++ when I have learned enough from Lua and the Roblox Game Development side.
+Hi I'm Axel and im turning 16 years and im a full-stack roblox scripter and an all around developer on the roblox platform and more, I know a little bit of JS and about a years worth of Lua. I'm currently making my second part/fully commited game based on the Anime'n Manga, Bleach.
 
 [Started 15/11/21]
 
