@@ -1,6 +1,6 @@
 - 👋 [Hi,] I'm axel
 - 👀 [I’m interested] Game dev, general systems creation & back-end
-- 🌱 [I’m currently learning] C
+- 🌱 [I’m currently learning] N/A
 - 💞️ [I’m looking to collaborate with] N/A
 - 📫 [How to reach me] N/A
 
